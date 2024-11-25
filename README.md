@@ -1,4 +1,4 @@
-# Pneumonia Classification Web App Python Streamlit
+# Pneumonia Classification Web App 
 
 Created a Pneumonia Classification Web Application using python, opencv, streamlit and numpy
 
